@@ -12,6 +12,23 @@ GitBook寫作
 
 http://kingofamani.gitbooks.io/git-teach/content/chapter_6_gitbook/chapter_6_gitbookgitbook2.html
 
+## 建議先建立一個 GitHub 帳號及空間
+1. 先有 GitHub 再有 GitBook 會比較簡單
+2. 到 https://github.com 註冊一個帳號
+3. 建立一個專案空間（repository）
+![](snap01.png)
+4. 『Initialize this repository with a README』記得打勾
+
+## 連到 https://www.gitbook.com
+1. 先建立一個帳號
+2. 建立一本書
+![](snap05.png)
+3. 連接 GitHub
+![](snap03.png)
+4. 新增掛勾與 GitHub 掛在一起
+![](snap04.png)
+5. 之後只要書籍有任何異動，都會在 GitHub 中留下備份及歷史紀錄。
+
 ## 章節架構
 
 Add Article 代表新增一章
