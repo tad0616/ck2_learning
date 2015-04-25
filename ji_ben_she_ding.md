@@ -6,7 +6,7 @@
 
 請務必至少做以下兩個修改動作：
 1. Uniform Server 預設使用的 php.ini 版本其實是 C:\UniServerZ\core\php54\php_production.ini，可直接開啟編輯之
-2. 也可從控制台點選 PHP → Edited selected configuration file 來編輯之。
+2. 也可從控制台點選 PHP → Edited selected configuration file 來編輯之。  
 ![](x209.png)
 3. 找到 display_errors 並將值改成 On （若未改，PHP將無法顯示錯誤訊息，偵錯會很困難）
 4. 找到 date.timezone 並將值改成 "Asia/Taipei" （若未改，系統時間將會差八小時）
@@ -16,9 +16,12 @@
 ## 讓 Uniform Server 可以寄信
 
 如果沒有寄信需求，此步驟可略過
-1. 先Stop Apache，接著點選 General→Mail utility msmtp![](x206.png)
-3. 按下左上角的 Edit configuration File 按鈕![](x207.png)
-4. 將裡面的Email修改成您的Gmail信箱（藍色框部份），密碼請設定成該信箱密碼。（紅色框部份）![](x208.png)
+1. 先Stop Apache，接著點選 General→Mail utility msmtp  
+![](x206.png)
+3. 按下左上角的 Edit configuration File 按鈕  
+![](x207.png)
+4. 將裡面的Email修改成您的Gmail信箱（藍色框部份），密碼請設定成該信箱密碼。（紅色框部份）  
+![](x208.png)
 5. 儲存後，可利用 2. 的那個界面來測試是否可以寄信。
 
 ## 修改網頁目錄位置
