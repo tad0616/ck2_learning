@@ -7,6 +7,6 @@ proxy自動設定檔（除非上網須經過proxy，否則應該用不到）
 動態DNS設定（須自行購買網址，可讓網址對應到UniServer上的網站）
 
 1. 先至 https://www.dtdns.com/ 註冊帳號
-2. 至 HostName 註冊一個子網域
+2. 至 Hostnames 註冊一個子網域
 3. 至 Extra/DtDNS 填入子網域名稱，以及DtDNS密碼
 4. 儲存變更（Save Changes）
