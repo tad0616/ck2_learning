@@ -17,12 +17,15 @@
 
 如果沒有寄信需求，此步驟可略過
 1. 先Stop Apache，接著點選 General→Mail utility msmtp
+
 ![](x206.png)
 
 3. 按下左上角的 Edit configuration File 按鈕
+
 ![](x207.png)
 
 4. 將裡面的Email修改成您的Gmail信箱（藍色框部份），密碼請設定成該信箱密碼。（紅色框部份）
+
 ![](x208.png)
 
 5. 儲存後，可利用 2. 的那個界面來測試是否可以寄信。
