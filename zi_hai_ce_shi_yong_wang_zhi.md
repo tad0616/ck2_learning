@@ -2,7 +2,7 @@
 
 基本上，此網址是假的，自嗨用，或者測試用，對外無法連。
 
-執行 Extra / Edit Win hosts file，輸入想要的網址即可，按 Add 。
+執行 Extra / Edit Win hosts file，輸入想要的網址即可，按 Add 。  
 
 ![](snap006.png)
 
